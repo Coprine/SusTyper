@@ -1,0 +1,9 @@
+* {
+    background-color: black;
+    color: mediumseagreen
+}
+#main {
+    display: block;
+    width: 100%;
+    overflow-wrap: break-word;
+}
